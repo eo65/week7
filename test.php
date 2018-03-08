@@ -2,7 +2,7 @@
 	
 	$servername = "sql.njit.edu";
 	$username = "eo65";
-	$password = "KM7NVIbO";
+	$password = "SECRETPAAA";
     
 	try 
 	{
